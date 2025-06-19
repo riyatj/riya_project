@@ -1,0 +1,12 @@
+# Ignore system folders and unnecessary files
+$Recycle.Bin/
+WinREAgent/
+Drivers/
+*.exe
+*.bin
+*.wim
+*.sdi
+*.cmd
+*.ini
+*.jpg
+*.png
